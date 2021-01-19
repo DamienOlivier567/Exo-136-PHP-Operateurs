@@ -12,7 +12,8 @@ $b = 5;
 if($a === $b) {
     echo "<br><br>a est identique à b";
 }
-
+$a = 6;
+$b = 8;
 //Quatrieme ligne
 if($a != $b) {
     echo"<br><br>a n'est pas identique à b";
